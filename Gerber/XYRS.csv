@@ -1,0 +1,22 @@
+Reference Designator(s),X,Y,Rotation,Side
+D1,8.5422mm,42.9908mm,180,Bottom
+C1,3.7915mm,41.7205mm,0,Bottom
+C2,-0.5301mm,44.9112mm,90,Bottom
+R4,2.6807mm,44.8711mm,90,Bottom
+Q1,1.4304mm,36.0091mm,90,Top
+D2,-0.4001mm,38.4397mm,0,Top
+C4,1.0703mm,44.9315mm,270,Bottom
+C5,-0.3501mm,32.9881mm,90,Bottom
+R2,6.0615mm,34.7286mm,90,Top
+R1,4.4411mm,34.7286mm,90,Top
+UR1,3.5909mm,36.3492mm,90,Bottom
+C3,0.5901mm,44.9313mm,90,Bottom
+U2,6.1716mm,42.5207mm,180,Top
+S1,12.6732mm,49.2324mm,0,Top
+U3,8.9985mm,34.9688mm,270,Top
+U1,17.1543mm,35.629mm,270,Top
+R3,4.2911mm,45.4813mm,90,Bottom
+RV1,14.4636mm,42.9908mm,90,Bottom
+RV2,14.4636mm,42.9908mm,90,Top
+USP 8266-12E,6.3377mm,22.1756mm,90,Bottom
+U,1.8205mm,50.1826mm,0,Bottom

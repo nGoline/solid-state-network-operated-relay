@@ -1,24 +1,24 @@
-Mfg. Part Number,Digi-Key Part Number,RefDes,Quantity,Assembly Overage,Unit Price,Qty Available,Description,Links
-LVR055K-2,"=HYPERLINK(""http://www.digikey.com/product-detail/en/LVR055K-2/LVR055KCT-ND"",""LVR055KCT-ND"")",F,1,$1 24,988,POLYSWITCH PTC RESET 0.55A RAD,
-DSRHD10-13,"=HYPERLINK(""http://www.digikey.com/product-detail/en/DSRHD10-13/DSRHD10-13DICT-ND"",""DSRHD10-13DICT-ND"")",D1,1,$0 51,4704,RECT BRIDGE 1A 1KV T-MINIDIP,
-STGD5NB120SZT4,"=HYPERLINK(""http://www.digikey.com/product-detail/en/STGD5NB120SZT4/497-4352-1-ND"",""497-4352-1-ND"")",T1,1,$1 88,456,IGBT 1200V 10A 75W DPAK,
-CL05A104MP5NNNC,"=HYPERLINK(""http://www.digikey.com/product-detail/en/CL05A104MP5NNNC/1276-1443-1-ND"",""1276-1443-1-ND"")",C1,1,$0 1,33539,CAP CER 0.1UF 10V 20% X5R 0402,
-GRM155C80J105ME15D,"=HYPERLINK(""http://www.digikey.com/product-detail/en/GRM155C80J105ME15D/490-10435-1-ND"",""490-10435-1-ND"")",C2,1,$0 1,9958,CAP CER 1UF 6.3V 20% X6S 0402,
-RC0402FR-0712K4L,"=HYPERLINK(""http://www.digikey.com/product-detail/en/RC0402FR-0712K4L/311-12.4KLRCT-ND"",""311-12.4KLRCT-ND"")",R4,1,$0 1,3039,RES SMD 12.4K OHM 1% 1/16W 0402,
-V430CH8T,"=HYPERLINK(""http://www.digikey.com/product-detail/en/V430CH8T/F3466CT-ND"",""F3466CT-ND"")",RV1 RV2,2,$1 4,316,VARISTOR 389V 250A 2-SMD,
-MMBT3640,"=HYPERLINK(""http://www.digikey.com/product-detail/en/MMBT3640/MMBT3640CT-ND"",""MMBT3640CT-ND"")",Q1,1,$0 59,2115,TRANS PNP 12V 0.2A SOT-23,"=HYPERLINK(""http://www.fairchildsemi.com/datasheets/MM/MMBT3640.pdf"",""Datasheet"")"
+Mfg. Part Number,Arrow Part Number,RefDes,Quantity,Assembly Overage,Unit Price,Qty Available,Description,Links
+DSRHD10-13,"=HYPERLINK(""https://www.arrow.com/en/products/DSRHD10-13/Diodes-Incorporated-(VA)"",""DSRHD10-13"")",D1,1,$0 503,0 (1 min order),RECT BRIDGE 1A 1KV T-MINIDIP,
+CL05A104MP5NNNC,"=HYPERLINK(""https://www.arrow.com/en/products/CL05A104MP5NNNC/Samsung-Electro-Mechanics-America%2c-Inc.-(VA)"",""CL05A104MP5NNNC"")",C1,1,$0 0017,136 (1 min order),CAP CER 0.1UF 10V 20% X5R 0402,
+GRM155C80J105ME15D,"=HYPERLINK(""https://www.arrow.com/en/products/GRM155C80J105ME15D/Murata-Electronics-North-America-(VA)"",""GRM155C80J105ME15D"")",C2,1,$0 0322,7900 (1 min order),CAP CER 1UF 6.3V 20% X6S 0402,
+RC0402FR-0712K4L,"=HYPERLINK(""https://www.arrow.com/en/products/RC0402FR-0712K4L/Yageo-(VA)"",""RC0402FR-0712K4L"")",R4,1,$0 1,49700 (1 min order),RES SMD 12.4K OHM 1% 1/16W 0402,
+MMBT3640,"=HYPERLINK(""https://www.arrow.com/en/products/MMBT3640/Fairchild-Semiconductor-(VA)"",""MMBT3640"")",Q1,1,$0 3711,21000 (3000 min order),TRANS PNP 12V 0.2A SOT-23,"=HYPERLINK(""http://www.fairchildsemi.com/datasheets/MM/MMBT3640.pdf"",""Datasheet"")"
 ,,,,,,,,"=HYPERLINK(""http://media.digikey.com/Renders/~~Pkg.Case%20or%20Series/SOT-23-3%20PKG.jpg"",""Product photo"")"
-MM3Z3V3T1G,"=HYPERLINK(""http://www.digikey.com/product-detail/en/MM3Z3V3T1G/MM3Z3V3T1GOSCT-ND"",""MM3Z3V3T1GOSCT-ND"")",D2,1,$0 14,301,DIODE ZENER 3.3V 300MW SOD323,"=HYPERLINK(""http://www.onsemi.com/pub_link/Collateral/MM3Z2V4T1-D.PDF"",""Datasheet"")"
+MM3Z3V3T1G,"=HYPERLINK(""https://www.arrow.com/en/products/MM3Z3V3T1G/ON-Semiconductor-(VA)"",""MM3Z3V3T1G"")",D2,1,$0 0556,33000 (3000 min order),DIODE ZENER 3.3V 300MW SOD323,"=HYPERLINK(""http://www.onsemi.com/pub_link/Collateral/MM3Z2V4T1-D.PDF"",""Datasheet"")"
 ,,,,,,,,"=HYPERLINK(""http://media.digikey.com/Renders/On%20Semi%20Renders/SOD-323_477.jpg"",""Product photo"")"
-ESP-8266-12E,,WI-FI,1,-, ,No description,
-ACS712ELCTR-30A-T,"=HYPERLINK(""http://www.digikey.com/product-detail/en/ACS712ELCTR-30A-T/620-1191-2-ND"",""620-1191-2-ND"")",U1,1,$1 806,3000,SENSOR CURRENT HALL 30A AC/DC,
-CC0402KRX7R9BB102,"=HYPERLINK(""http://www.digikey.com/product-detail/en/CC0402KRX7R9BB102/311-1036-2-ND"",""311-1036-2-ND"")",C4 C5,2,$0 002315,2350000,CAP CER 1000PF 50V X7R 0402,
-SAÍDA,,W1,1,-, ,No description,
-RC0402FR-071M1L,"=HYPERLINK(""http://www.digikey.com/product-detail/en/RC0402FR-071M1L/RC0402FR-071M1L-ND"",""RC0402FR-071M1L-ND"")",R2,1,$0 001221,0,RES SMD 1.1M OHM 1% 1/16W 0402,
-RC0402FR-07390KL,"=HYPERLINK(""http://www.digikey.com/product-detail/en/RC0402FR-07390KL/YAG3143TR-ND"",""YAG3143TR-ND"")",R1,1,$0 001221,40000,RES SMD 390K OHM 1% 1/16W 0402,
-SR086SG-G,,UR1,1,-, ,IC REG ADJ CONTROLLER SWITCH 8SO,
-RC0402FR-0740K2L,,R3,1,-, ,RES SMD 40.2K OHM 1% 1/16W 0402,
-ECA-1HM471,,C3,1,-, ,CAP ALUM 470UF 20% 50V RADIAL,"=HYPERLINK(""http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABA0012+ECA1HM471+7+WW"",""Datasheet"")"
+CC0402KRX7R9BB102,"=HYPERLINK(""https://www.arrow.com/en/products/CC0402KRX7R9BB102/"",""CC0402KRX7R9BB102"")",C4 C5,2,$0 097,50000 (10000 min order),CAP CER 1000PF 50V X7R 0402,
+RC0402FR-071M1L,"=HYPERLINK(""https://www.arrow.com/en/products/RC0402FR-071M1L/"",""RC0402FR-071M1L"")",R2,1,-, ,RES SMD 1.1M OHM 1% 1/16W 0402,
+RC0402FR-07390KL,"=HYPERLINK(""https://www.arrow.com/en/products/RC0402FR-07390KL/"",""RC0402FR-07390KL"")",R1,1,$0 1,50000 (10000 min order),RES SMD 390K OHM 1% 1/16W 0402,
+SR086SG-G,"=HYPERLINK(""https://www.arrow.com/en/products/SR086SG-G/Microchip-Technology-(VA)"",""SR086SG-G"")",UR1,1,$1 059,3340 (1 min order),IC REG ADJ CONTROLLER SWITCH 8SO,
+ECA-1HM471,"=HYPERLINK(""https://www.arrow.com/en/products/ECA-1HM471/Panasonic"",""ECA-1HM471"")",C3,1,$0 5235,1515 (1 min order),CAP ALUM 470UF 20% 50V RADIAL,"=HYPERLINK(""http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+ABA0012+ECA1HM471+7+WW"",""Datasheet"")"
 ,,,,,,,,"=HYPERLINK(""http://media.digikey.com/photos/Panasonic%20Photos/ECA-1HM471.jpg"",""Product photo"")"
 ,,,,,,,,"=HYPERLINK(""http://media.digikey.com/pdf/Catalog%20Drawings/Capacitors/Mseries-Dim1.jpg"",""Catalog drawing"")"
-PR33MF51YPLF,,U2,1,-, ,RELAY SSR 240V,
+PR33MF51YPLF,"=HYPERLINK(""https://www.arrow.com/en/products/PR33MF51YPLF/Sharp-Microelectronics-(VA)"",""PR33MF51YPLF"")",U2,1,-, ,RELAY SSR 240V,
+MAINS IO,"=HYPERLINK(""https://www.arrow.com/en/products/MAINS+IO/"",""MAINS IO"")",S1,1,-, ,No description,
+STGD5NB120SZT4,"=HYPERLINK(""https://www.arrow.com/en/products/STGD5NB120SZT4/STMicroelectronics-(VA)"",""STGD5NB120SZT4"")",U3,1,$0 7888,0 (2500 min order),IGBT 1200V 10A 75W DPAK,
+ACS712ELCTR-30A-T,"=HYPERLINK(""https://www.arrow.com/en/products/ACS712ELCTR-30A-T/"",""ACS712ELCTR-30A-T"")",U1,1,$4 82,8 (1 min order),SENSOR CURRENT HALL 30A AC/DC,
+RC0402FR-0740K2L,"=HYPERLINK(""https://www.arrow.com/en/products/RC0402FR-0740K2L/"",""RC0402FR-0740K2L"")",R3,1,$0 1,40000 (10000 min order),RES SMD 40.2K OHM 1% 1/16W 0402,
+V430CH8T,"=HYPERLINK(""https://www.arrow.com/en/products/V430CH8T/Littelfuse-Inc.-(VA)"",""V430CH8T"")",RV1 RV2,2,$1 0984,25000 (1000 min order),VARISTOR 389V 250A 2-SMD,
+ESP-8266-12E,"=HYPERLINK(""https://www.arrow.com/en/products/ESP-8266-12E/"",""ESP-8266-12E"")",USP 8266-12E,1,-, ,No description,
+LVR055K-2,"=HYPERLINK(""https://www.arrow.com/en/products/LVR055K-2/TE-CONNECTIVITY-RAYCHEM-CIRCUIT-PROTECTION-(VA)"",""LVR055K-2"")",U,1,-, ,POLYSWITCH PTC RESET 0.55A RAD,
